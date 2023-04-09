@@ -161,3 +161,4 @@ Note: ผมพบว่าข้อมูล GDP ของประเทศไ
 ## อ่านเพิ่มเติม
 
 - [GDP คือ อะไร? ตัวเลขสำคัญทางเศรษฐกิจที่นักลงทุนควรรู้จัก](https://www.finnomena.com/getwealthsoon/what-is-gdp/)
+- [รายงานภาวะเศรษฐกิจไทย รายปี ธนาคารแห่งประเทศไทย](https://www.bot.or.th/Thai/MonetaryPolicy/EconomicConditions/AnnualReport/Pages/default.aspx)
